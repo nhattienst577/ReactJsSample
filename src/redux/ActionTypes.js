@@ -1,0 +1,3 @@
+export const STAFFS_SUCCESS = "STAFFS_SUCCESS";
+export const STAFFS_LOADING = "STAFFS_LOADING";
+export const STAFFS_FAILED = "STAFFS_FAILED";
